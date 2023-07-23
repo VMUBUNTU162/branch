@@ -1,1 +1,2 @@
 BugFix1
+BugFix2
